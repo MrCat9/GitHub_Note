@@ -1,17 +1,21 @@
 # GitHub_Note
 
+## 目录
+
+1_markdown
+
 markdown  https://guides.github.com/features/mastering-markdown/
 
 markdown在线编辑器  https://www.mdeditor.com/
 
+markdown在线编辑器 https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown
+
 Markdown基本语法  https://www.jianshu.com/p/191d1e21f7ed
 
-## 目录
-
-1_markdown语法
-
+Cmd Markdown 公式指导手册 https://www.zybuluo.com/codeep/note/163962
 
 2_回退到指定版本
+
 ```
 1. cmd下cd到本地仓的目录下
 
